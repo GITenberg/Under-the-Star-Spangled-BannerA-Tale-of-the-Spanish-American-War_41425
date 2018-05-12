@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34828'
     url: http://www.gutenberg.org/2009/agents/34828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41425#Under-the-Star-Spangled-BannerA-Tale-of-the-Spanish-American-War
 gutenberg_issued: '2012-11-21'
 gutenberg_type: Text
 identifiers:
